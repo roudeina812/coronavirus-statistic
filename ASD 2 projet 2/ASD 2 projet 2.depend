@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1619609277 source:c:\users\user\onedrive\bureau\asd 2 projet 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+	"LSTPRIIM.h"
+	<time.h>
+
+1618387515 source:c:\users\user\onedrive\bureau\asd 2 projet 2\eltinf.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"ELTPRIM.h"
+
+1616927728 c:\users\user\onedrive\bureau\asd 2 projet 2\eltprim.h
+	"ELTSDD.h"
+
+1616927728 c:\users\user\onedrive\bureau\asd 2 projet 2\eltsdd.h
+	"ELTINF.h"
+
+1618386728 c:\users\user\onedrive\bureau\asd 2 projet 2\eltinf.h
+
+1618651470 source:c:\users\user\onedrive\bureau\asd 2 projet 2\lstinf.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<math.h>
+	<string.h>
+	"LSTPRIM.h"
+
+1617051817 c:\users\user\onedrive\bureau\asd 2 projet 2\lstprim.h
+	"ELTPRIM.h"
+	"LSTSDD.h"
+
+1616939707 c:\users\user\onedrive\bureau\asd 2 projet 2\lstsdd.h
+	"LSTINF.h"
+
+1617874209 c:\users\user\onedrive\bureau\asd 2 projet 2\lstinf.h
+	"ELTPRIM.h"
+
+1618315295 source:c:\users\user\onedrive\bureau\asd 2 projet 2\lsttab.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<math.h>
+	<string.h>
+	"LSTPRIIM.h"
+
+1617047737 c:\users\user\onedrive\bureau\asd 2 projet 2\lstpriim.h
+	"LSTSDDD.h"
+
+1617045414 c:\users\user\onedrive\bureau\asd 2 projet 2\lstsddd.h
+	"LSTTAB.h"
+
+1618315295 c:\users\user\onedrive\bureau\asd 2 projet 2\lsttab.h
+	"LSTPRIM.h"
+
+1617617391 source:c:\users\user\asd 2 projet 2\eltinf.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"ELTPRIM.h"
+
+1616927728 c:\users\user\asd 2 projet 2\eltprim.h
+	"ELTSDD.h"
+
+1616927728 c:\users\user\asd 2 projet 2\eltsdd.h
+	"ELTINF.h"
+
+1616928307 c:\users\user\asd 2 projet 2\eltinf.h
+
+1617648903 source:c:\users\user\asd 2 projet 2\lstinf.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<math.h>
+	<string.h>
+	"LSTPRIM.h"
+
+1617573806 c:\users\user\asd 2 projet 2\lstprim.h
+	"ELTPRIM.h"
+	"LSTSDD.h"
+
+1616939707 c:\users\user\asd 2 projet 2\lstsdd.h
+	"LSTINF.h"
+
+1617371687 c:\users\user\asd 2 projet 2\lstinf.h
+	"ELTPRIM.h"
+
+1617573865 source:c:\users\user\asd 2 projet 2\lsttab.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<math.h>
+	<string.h>
+	"LSTPRIIM.h"
+
+1617047737 c:\users\user\asd 2 projet 2\lstpriim.h
+	"LSTSDDD.h"
+
+1617045414 c:\users\user\asd 2 projet 2\lstsddd.h
+	"LSTTAB.h"
+
+1617045414 c:\users\user\asd 2 projet 2\lsttab.h
+	"LSTPRIM.h"
+
+1617734363 source:c:\users\user\asd 2 projet 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+	"LSTPRIIM.h"
+
